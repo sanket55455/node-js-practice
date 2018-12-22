@@ -1,5 +1,5 @@
 //Store multiple values with array
-//every element in the array seprated by quama.
+//every element in the array seperated by quama.
 var myArray = ["sanket",56];
 
 //nested arrays
@@ -18,3 +18,8 @@ console.log(myArray)//output [10,25,30]
 //Access multi-dimentional arrays with indexes.
 var myArray = [[1,2,3][4,5,6][7,8,9],[[10 ,11,12],[13,14]];
 var myData = myArray[1][2];
+console.log(myData);
+
+//Shopping List
+var nyList = [["milk",3 ],["ice",5],["bananas",7],["eggs",10]];
+
