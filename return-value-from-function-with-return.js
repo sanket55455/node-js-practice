@@ -11,3 +11,17 @@ function timesFive(sp)
 }
  
  console.log(timesFive(5))
+
+ //undefine value return from function
+
+ var sum = 0;
+ function addThree ()
+ {
+     sum = sum + 3;
+ }
+
+ function addFive()
+ {
+     sum += 5;
+ }
+ 
